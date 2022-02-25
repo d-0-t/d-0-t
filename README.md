@@ -2,29 +2,6 @@
   
   - Open for hire
   - Full-Stack
-  
------
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" height=40>
-	
-  <br>
-  
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" height=40>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" height=40>
-</p>
-
------
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dora-sukolova-94420821b/">
@@ -35,3 +12,47 @@
   <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" height=40></a>
   </a>
 </p>
+
+-----
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" height=40>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" height=40>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" height=40>
+</p>
+
+-----
+
+## SHOWCASE
+### Main projects
+- [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini (under development) - [repo](https://github.com/d-0-t/space-weather-mini) 
+- [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) _- repo link coming soon_
+- [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) _- repo link coming soon_
+
+### FreecCodeCamp (Full Stack, 25 projects)
+A full list of my FCC projects as well as the source codes can be found in the different folders of the [repository!](https://github.com/d-0-t/fcc_projects)!
+
+Here are some of my favorites:
+
+- [[Demo]](https://replit.com/@d-0-t/Sudoku-Solver) Sudoku Solver (Quality Assurance (backend + testing))
+- [[Demo]](https://replit.com/@d-0-t/Issue-Tracker) Issue Tracker (Quality Assurance (backend + testing))
+- [[Demo]](https://replit.com/@d-0-t/Exercise-Tracker) Exercise tracker (Backend)
+- [[Demo]](https://replit.com/@d-0-t/Timestamp-Microservice) Timestamp Microservice (Backend)
+- [[Demo]](https://replit.com/@d-0-t/URL-Shortener) URL Shortener (Backend)
+- [[Demo]](https://codepen.io/d-o-t/full/xxrjbzo) Vampire Orbituary (Random Quote Machine)
+- [[Demo]](https://codepen.io/d-o-t/full/RwgJyOP) React Markdown Previewer
+- [[Demo]](https://codepen.io/d-o-t/full/OJgagZj) JavaScript Calculator
+- [[Demo]](https://codepen.io/d-o-t/full/oNwJqer) 25 + 5 Clock
+- [[Demo]](https://codepen.io/d-o-t/pen/PoKJgxN) Caesar's Cipher
+- [[Demo]](https://codepen.io/d-o-t/full/OJgdYvr) Roman Numeral Converter
+- [[Demo]](https://codepen.io/d-o-t/full/Vwzdzee) Palindrome Checker
