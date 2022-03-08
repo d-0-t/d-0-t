@@ -1,6 +1,7 @@
 <h1> Hi, I'm Dot! </h1>
   
   - Open for hire
+  - FrontEnd-oriented
   - Full-Stack
 
 <p align="center">
@@ -35,9 +36,9 @@
 
 ## SHOWCASE
 ### Main projects
-- [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini (under development) - [repo](https://github.com/d-0-t/space-weather-mini) 
-- [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) _- repo link coming soon_
-- [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) _- repo link coming soon_
+- [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini (under development) [(repo)](https://github.com/d-0-t/space-weather-mini) 
+- [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
+- [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries)
 
 ### FreecCodeCamp (Full Stack, 25 projects)
 A full list of my FCC projects as well as the source codes can be found in the different folders of the [repository!](https://github.com/d-0-t/fcc_projects)!
