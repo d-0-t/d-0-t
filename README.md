@@ -1,7 +1,7 @@
 <h1> Hi, I'm Dot! </h1>
   
   - Open for hire
-  - FrontEnd-oriented
+  - Frontend-oriented
   - Full-Stack
 
 <p align="center">
