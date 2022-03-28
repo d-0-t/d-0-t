@@ -36,7 +36,11 @@
 
 ## SHOWCASE
 ### Main projects
-- [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini (under development) [(repo)](https://github.com/d-0-t/space-weather-mini) 
+#### Current / under development
+- [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini [(repo)](https://github.com/d-0-t/space-weather-mini)
+- A full-stack project with social media-like features (for showcase/practice purposes)
+  - Status: Backend under development (REST API in TypeScript, Node.js, Express.js, Passport & JWT, MongoDB)
+#### Finished
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
 
