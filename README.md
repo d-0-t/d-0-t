@@ -38,8 +38,8 @@
 ### Main projects
 #### Current / under development
 - [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini [(repo)](https://github.com/d-0-t/space-weather-mini)
-- A full-stack project with social media-like features (for showcase/practice purposes)
-  - Status: Backend under development (REST API in TypeScript, Node.js, Express.js, Passport & JWT, MongoDB)
+- Idea central - a full-stack project with social media-like features
+  - Progress: Backend / REST API [[repo]](https://github.com/d-0-t/ideacentral-backend-api)
 #### Finished
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
