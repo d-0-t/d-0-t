@@ -1,8 +1,5 @@
-<h1> Hi, I'm Dot! </h1>
-  
-  - Open for hire
-  - Frontend-oriented
-  - Full-Stack
+<h1 align="center"> Hi, I'm Dot! </h1>
+<p align="center">I'm a <b>frontend</b>-oriented <b>full-stack</b> developer.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dora-sukolova-94420821b/">
@@ -13,6 +10,13 @@
   <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" height=40></a>
   </a>
 </p>
+
+-----
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-0-t&layout=compact" alt="Programming language statistics">
+</div>
 
 -----
 
