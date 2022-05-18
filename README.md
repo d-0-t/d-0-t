@@ -42,10 +42,14 @@
 #### Current / under development
 - [[Demo]](https://d-0-t.github.io/space-weather-mini/) Space Weather Mini [(repo)](https://github.com/d-0-t/space-weather-mini)
 - Idea central - a full-stack project with social media-like features
-  - Progress: Backend / REST API [[repo]](https://github.com/d-0-t/ideacentral-backend-api)
+  - Backend / REST API [[repo]](https://github.com/d-0-t/ideacentral-backend-api)
+  - Frontend: under development, [check out some screenshots](https://imgur.com/a/o56KUaa)
 #### Finished
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
+
+#### Extras
+- [[3D work]](https://imgur.com/a/Xaf01eN) - sometimes I get asked about my experience in 3D. I'm very interested in 3D modeling and would love to get into it deeper later on, as well as learn WebGL to match it in web dev. Clicking the link you can see images with descriptions explaining what I've done in Blender.
 
 ### FreecCodeCamp (Full Stack, 25 projects)
 A full list of my FCC projects as well as the source codes can be found in the different folders of the [repository!](https://github.com/d-0-t/fcc_projects)!
