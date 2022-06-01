@@ -13,13 +13,6 @@
 
 -----
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-0-t&layout=compact" alt="Programming language statistics">
-</div>
-
------
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
@@ -68,3 +61,11 @@ Here are some of my favorites:
 - [[Demo]](https://codepen.io/d-o-t/pen/PoKJgxN) Caesar's Cipher
 - [[Demo]](https://codepen.io/d-o-t/full/OJgdYvr) Roman Numeral Converter
 - [[Demo]](https://codepen.io/d-o-t/full/Vwzdzee) Palindrome Checker
+
+
+-----
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-0-t&layout=compact" alt="Programming language statistics">
+</div>
