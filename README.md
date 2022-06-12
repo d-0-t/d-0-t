@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" height=40></a>
   </a>
   <a href="https://cssbattle.dev/player/d0t">
-  <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=cssbattle&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" height=40>
   </a>
 </p>
 
