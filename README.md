@@ -9,7 +9,7 @@
   <a href="https://replit.com/@d-0-t/">
   <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" height=40></a>
   </a>
-  <a href="https://cssbattle.dev/player/d0t">
+  <a href="https://github.com/d-0-t/css-battle">
   <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" height=40>
   </a>
 </p>
@@ -44,7 +44,8 @@
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
 
-#### Extras
+#### Extras & fun
+- [[CSSBattle]](https://github.com/d-0-t/css-battle) - cool CSS designs
 - [[3D work]](https://imgur.com/a/Xaf01eN) - sometimes I get asked about my experience in 3D. I'm very interested in 3D modeling and would love to get into it deeper later on, as well as learn WebGL to match it in web dev. Clicking the link you can see images with descriptions explaining what I've done in Blender.
 
 ### FreecCodeCamp (Full Stack, 25 projects)
