@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=40>
   <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/Electron-10233f?style=for-the-badge&logo=electron&logoColor=61DAFB" height=40>
   <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=40>
   <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" height=40>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" height=40>
