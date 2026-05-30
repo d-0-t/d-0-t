@@ -38,7 +38,7 @@
 ## SHOWCASE
 ### Main projects
 #### Most Recent
-If the repository is unavailable, I can share it on request for recruitment purpose.
+If the repository is unavailable, I can share it on request for recruitment purposes.
 
 **Various Demos with executables** - [ Repository: [demos](https://github.com/d-0-t/demos/tree/main) ]
   - 🐍 **Snek 2026** | Aracade Game | Java + libGDX | [Download](https://github.com/d-0-t/demos/raw/refs/heads/main/Snek2026-1.0.0.jar) | [Gameplay](https://www.youtube.com/watch?v=j7lwMMXBGKA) | [Repo](https://github.com/d-0-t/java-snake) 
