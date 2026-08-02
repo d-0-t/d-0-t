@@ -55,6 +55,7 @@ If the repository is unavailable, I can share it on request for recruitment purp
 #### Finished
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
+- [[Demo]](https://d-0-t.github.io/ugly-site/) Ugly Site from the 2000s, for fun [(repo)](https://github.com/d-0-t/ugly-site)
 
 #### Extras & fun
 - [[CSSBattle]](https://github.com/d-0-t/css-battle) - cool CSS designs
