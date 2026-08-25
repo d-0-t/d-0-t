@@ -36,21 +36,26 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=40>
 </p>
 
-## Recent Projects
+## Showcase
 If the repository is unavailable, I can share it on request for recruitment purposes.
 
 **Various Demos** - [ Repository: [demos](https://github.com/d-0-t/demos/tree/main) ]
 
-### 🧻 **i _NEED_ to _PEE_** | Find toilets along your route | React + Next.js | [Live Demo](https://i-need-to-pee.netlify.app/) | [Repo](https://github.com/d-0-t/i-need-to-pee)
+### 🌌 **Space Weather Mini (WIP)** - _Aurora chasing_ | [Live Demo](https://space-weather-mini.netlify.app/) | [Repo](https://github.com/d-0-t/space-weather-mini)
+<img src="https://github.com/d-0-t/demos/blob/main/media/aurora.png" alt="Space Weather Mini - App Screenshot">
+
+### 🧻 **i NEED to _PEE_** - _Find toilets along your route_ | React + Next.js | [Live Demo](https://i-need-to-pee.netlify.app/) | [Repo](https://github.com/d-0-t/i-need-to-pee)
 <img src="https://github.com/d-0-t/demos/blob/main/media/i_need_to_pee_screenshot.jpg" alt="I Need to Pee - App Screenshot" width="180">
 
-### 🐍 **Snek 2026** | Aracade Game | Java + libGDX | [Download](https://github.com/d-0-t/demos/raw/refs/heads/main/Snek2026-1.0.0.jar) | [Gameplay](https://www.youtube.com/watch?v=j7lwMMXBGKA) | [Repo](https://github.com/d-0-t/java-snake) 
+### 🐍 **Snek 2026** - _Aracade Game_ | Java + libGDX | [Download](https://github.com/d-0-t/demos/raw/refs/heads/main/Snek2026-1.0.0.jar) | [Gameplay](https://www.youtube.com/watch?v=j7lwMMXBGKA) | [Repo](https://github.com/d-0-t/java-snake) 
 <img src="https://github.com/d-0-t/demos/blob/main/media/snek_screenshot1.png" alt="Snek 2026 Video Game Title Screen" width="180">
+
+### 💀 **Ugly Site from the 2000s** - _Fun_ | [Demo](https://d-0-t.github.io/ugly-site/) | [Repo](https://github.com/d-0-t/ugly-site)
+<img src="https://github.com/d-0-t/demos/blob/main/media/skeletons.jpg" alt="Snek 2026 Video Game Title Screen" width="180">
 
 ## Other projects
 
 ### Old/Unfinished
-- [[Demo]](https://space-weather-mini.netlify.app/) Space Weather Mini [(repo)](https://github.com/d-0-t/space-weather-mini)
 - [[IdeaCentral]](https://ideacentral.netlify.app/) (alpha demo) - a full-stack project with social media-like features
   - Backend / REST API [[repo]](https://github.com/d-0-t/ideacentral-backend-api)
   - Frontend: under development - [[repo]](https://github.com/d-0-t/ideacentral-frontend) - [[screenshots]](https://imgur.com/a/o56KUaa)
@@ -58,7 +63,6 @@ If the repository is unavailable, I can share it on request for recruitment purp
 ### Finished
 - [[Demo]](https://d-0-t-fake-webstore.netlify.app/) Web Store (Frontend) [(repo)](https://github.com/d-0-t/integrify-webstore)
 - [[Demo]](https://d-0-t-country-search.netlify.app/) Country Search (Frontend) [(repo)](https://github.com/d-0-t/integrify-countries/tree/typescript)
-- [[Demo]](https://d-0-t.github.io/ugly-site/) Ugly Site from the 2000s, for fun [(repo)](https://github.com/d-0-t/ugly-site)
 
 ### Extras & fun
 - [[CSSBattle]](https://github.com/d-0-t/css-battle) - cool CSS designs
