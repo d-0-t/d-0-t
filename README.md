@@ -50,7 +50,7 @@ If the repository is unavailable, I can share it on request for recruitment purp
   <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_webcams.jpg" alt="Space Weather Mini - Webcams Screenshot" height="120">
 </p>
 
-### 🧻 **i NEED to _PEE_** - _Find toilets along your route_ | React + Next.js | [Live Demo](https://i-need-to-pee.netlify.app/) | [Repo](https://github.com/d-0-t/i-need-to-pee)
+### 🧻 **i NEED to PEE** - _Find toilets along your route_ | React + Next.js | [Live Demo](https://i-need-to-pee.netlify.app/) | [Repo](https://github.com/d-0-t/i-need-to-pee)
 <img src="https://github.com/d-0-t/demos/blob/main/media/i_need_to_pee_screenshot.jpg" alt="I Need to Pee - App Screenshot" width="180">
 
 ### 🐍 **Snek 2026** - _Aracade Game_ | Java + libGDX | [Download](https://github.com/d-0-t/demos/raw/refs/heads/main/Snek2026-1.0.0.jar) | [Gameplay](https://www.youtube.com/watch?v=j7lwMMXBGKA) | [Repo](https://github.com/d-0-t/java-snake) 
