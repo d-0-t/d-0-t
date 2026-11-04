@@ -41,7 +41,7 @@ If the repository is unavailable, I can share it on request for recruitment purp
 
 **Various Demos** - [ Repository: [demos](https://github.com/d-0-t/demos/tree/main) ]
 
-### 🌌 **Space Weather Mini (WIP)** - _Aurora chasing_ | [Live Demo](https://space-weather-mini.netlify.app/) | [Repo](https://github.com/d-0-t/space-weather-mini)
+### 🌌 **Space Weather Mini** - _Aurora chasing_ | [Live Demo](https://space-weather-mini.netlify.app/) | [Repo](https://github.com/d-0-t/space-weather-mini)
 
 <p>
   <img src="https://github.com/d-0-t/demos/blob/main/media/aurora.png" alt="Space Weather Mini - App Logo" height="120" width="120">
