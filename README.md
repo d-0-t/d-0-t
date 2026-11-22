@@ -16,27 +16,13 @@
   </a>
 </p>
 
------
-
-<p align="center">
-  <img src="https://img.shields.io/badge/☕_Java-323330?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
-  <img src="https://img.shields.io/badge/💿_SQL-4EA94B?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="40">
-  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40">
-  <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" height="40">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
-  <img src="https://img.shields.io/badge/🎨 CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
-  <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" height="40">
-  <img src="https://img.shields.io/badge/Electron-10233f?style=for-the-badge&logo=electron&logoColor=61DAFB" alt="Electron" height="40">
-  <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB and Mongoose" height="40">
-  <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" alt="Mocha Chai" height="40">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js" height="40">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40">
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="40">
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML` · `CSS` · `SASS` · `JavaScript` · `TypeScript` · `React.js` · `Angular` · `Redux` · `Next.js` · `Vite` · `RxJs` · `Echarts` |
+| **Backend & Data** | `Node.js` · `Express` · `PHP` · `WordPress` · `Python` · `Java` · `PostgreSQL` · `MongoDB & Mongoose` |
+| **Testing, Tools, etc.** | `Electron` · `Figma` · `Git` · `Bash` · `Azure` · `Bitbucket` · `Mocha Chai` · `Jasmine` · `Karma` · `Playwright` · `Babylon.js` · `libGDX` · `DokuWiki` · `Docker` |
+| **Accessibility** | `WCAG 2.1 / 2.2` · `EN 301 549 (EAA)` |
+| **AI** | `Agentic & Generative AI` · `OpenCode` |
 
 ## Showcase
 If the repository is unavailable, I can share it on request for recruitment purposes.
