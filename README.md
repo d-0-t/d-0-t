@@ -43,12 +43,31 @@ If the repository is unavailable, I can share it on request for recruitment purp
 
 ### 🌌 **Space Weather Mini** - _Aurora chasing_ | [Live Demo](https://space-weather-mini.netlify.app/) | [Repo](https://github.com/d-0-t/space-weather-mini)
 
-<p>
-  <img src="https://github.com/d-0-t/demos/blob/main/media/aurora.png" alt="Space Weather Mini - App Logo" height="120" width="120">
-  <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_dashboard.jpg" alt="Space Weather Mini - Dashboard Screenshot"  height="120">
-  <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_live_panel.png" alt="Space Weather Mini - Live Panel Aurora Intensity Design" height="120">
-  <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_webcams.jpg" alt="Space Weather Mini - Webcams Screenshot" height="120">
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="120">
+       <img src="https://github.com/d-0-t/demos/blob/main/media/aurora.png" alt="Space Weather Mini - App Logo" height="100">
+      <br>
+      <sub><b>Space Weather Mini</b> <br>App logo</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_live_panel.png" alt="Space Weather Mini - Live Panel Aurora Intensity Design" height="120">
+      <br>
+      <sub>Aurora Intensity Design</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_dashboard.jpg" alt="Space Weather Mini - Dashboard Screenshot"  height="180">
+      <br>
+      <sub>Dashboard</sub>
+    </td>
+    <td align="center" width="180">
+  <img src="https://github.com/d-0-t/demos/blob/main/media/aurora_webcams.jpg" alt="Space Weather Mini - Webcams Screenshot" height="180">
+      <br>
+      <sub>Webcams Page Screenshot</sub>
+    </td>
+  </tr>
+</table>
 
 ### 🧻 **i NEED to PEE** - _Find toilets along your route_ | React + Next.js | [Live Demo](https://i-need-to-pee.netlify.app/) | [Repo](https://github.com/d-0-t/i-need-to-pee)
 <img src="https://github.com/d-0-t/demos/blob/main/media/i_need_to_pee_screenshot.jpg" alt="I Need to Pee - App Screenshot" width="180">
