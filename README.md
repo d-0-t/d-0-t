@@ -1,20 +1,13 @@
 <h1 align="center"> Hi, I'm Dot! </h1>
 <p align="center">I'm a <b>frontend</b>-oriented <b>full-stack</b> developer and a web <b>accessibility</b> specialist.</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dora-sukolova-94420821b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Dot on LinkedIn" height="40">
-  </a>
-  <a href="https://codepen.io/d-o-t">
-    <img src="https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Dot on CodePen" height="40">
-  </a>
-  <a href="https://replit.com/@d-0-t/">
-    <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" alt="Dot on Replit" height="40">
-  </a>
-  <a href="https://github.com/d-0-t/css-battle">
-    <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="Dot's CSS Battle repository on GitHub" height="40">
-  </a>
-</p>
+<p align="center"><b>
+  💼 <a href="https://www.linkedin.com/in/dora-sukolova-94420821b/">LinkedIn</a> ·
+  🧠 <a href="https://github.com/d-0-t/">GitHub</a> ·
+  ✒️ <a href="https://codepen.io/d-o-t">CodePen</a> ·
+  ⚡ <a href="https://replit.com/@d-0-t/">Replit</a> ·
+  🎨 <a href="https://github.com/d-0-t/css-battle">CSS Battle</a>
+</b></p>
 
 | Area | Technologies |
 | :--- | :--- |
@@ -24,13 +17,12 @@
 | **Accessibility** | `WCAG 2.1 / 2.2` · `EN 301 549 (EAA)` |
 | **AI** | `Agentic & Generative AI` · `OpenCode` |
 
-## Showcase
+## 🦄 Showcase ✨
 If the repository is unavailable, I can share it on request for recruitment purposes.
 
 **Various Demos** - [ Repository: [demos](https://github.com/d-0-t/demos/tree/main) ]
 
 ### 🌌 **Space Weather Mini** - _Aurora chasing_ | [Live Demo](https://space-weather-mini.netlify.app/) | [Repo](https://github.com/d-0-t/space-weather-mini)
-
 
 <table>
   <tr>
@@ -84,7 +76,7 @@ Tired of websites having invisibly dark product images while browsing in Dark Mo
 </table>
 
 
-## Other projects
+## 🍂 Other projects
 
 ### Old/Unfinished
 - [[IdeaCentral]](https://ideacentral.netlify.app/) (alpha demo) - a full-stack project with social media-like features
@@ -99,7 +91,7 @@ Tired of websites having invisibly dark product images while browsing in Dark Mo
 - [[CSSBattle]](https://github.com/d-0-t/css-battle) - cool CSS designs
 - [[3D work]](https://imgur.com/a/Xaf01eN) - sometimes I get asked about my experience in 3D. I'm very interested in 3D modeling and would love to get into it deeper later on, as well as learn WebGL to match it in web dev. Clicking the link you can see images with descriptions explaining what I've done in Blender.
 
-## FreeCodeCamp (Full Stack, 25 projects)
+## 🐛 FreeCodeCamp (Full Stack, 25 projects)
 A full list of my FCC projects as well as the source codes can be found in the different folders of the [repository!](https://github.com/d-0-t/fcc_projects)!
 
 Here are some of my favorites:
