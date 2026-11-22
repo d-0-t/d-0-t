@@ -3,37 +3,39 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dora-sukolova-94420821b/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=40></a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Dot on LinkedIn" height="40">
+  </a>
   <a href="https://codepen.io/d-o-t">
-  <img src="https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white" height=40></a>
+    <img src="https://img.shields.io/badge/codepen-%230077B5.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="Dot on CodePen" height="40">
+  </a>
   <a href="https://replit.com/@d-0-t/">
-  <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" height=40></a>
+    <img src="https://img.shields.io/badge/replit-%230077B5.svg?&style=for-the-badge&logo=replit&logoColor=white" alt="Dot on Replit" height="40">
   </a>
   <a href="https://github.com/d-0-t/css-battle">
-  <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" height=40>
+    <img src="https://img.shields.io/badge/css%20battle-%230077B5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="Dot's CSS Battle repository on GitHub" height="40">
   </a>
 </p>
 
 -----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☕_Java-323330?style=for-the-badge&logo=java&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/💿_SQL-4EA94B?style=for-the-badge&logo=sql&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=40>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=40>
-  <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red" height=40>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/🎨 CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Electron-10233f?style=for-the-badge&logo=electron&logoColor=61DAFB" height=40>
-  <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" height=40>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" height=40>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height=40>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" height=40>
+  <img src="https://img.shields.io/badge/☕_Java-323330?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40">
+  <img src="https://img.shields.io/badge/💿_SQL-4EA94B?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="40">
+  <img src="https://img.shields.io/badge/Python-007ACC?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="40">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="40">
+  <img src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red" alt="Angular" height="40">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="40">
+  <img src="https://img.shields.io/badge/🎨 CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="40">
+  <img src="https://img.shields.io/badge/SASS-4EA94B?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" height="40">
+  <img src="https://img.shields.io/badge/Electron-10233f?style=for-the-badge&logo=electron&logoColor=61DAFB" alt="Electron" height="40">
+  <img src="https://img.shields.io/badge/MongoDB_&_Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB and Mongoose" height="40">
+  <img src="https://img.shields.io/badge/Mocha Chai-323330?style=for-the-badge&logo=mocha&logoColor=F7DF1E" alt="Mocha Chai" height="40">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js" height="40">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="40">
 </p>
 
 ## Showcase
