@@ -59,6 +59,24 @@ If the repository is unavailable, I can share it on request for recruitment purp
 ### 💀 **Ugly Site from the 2000s** - _Fun_ | [Demo](https://d-0-t.github.io/ugly-site/) | [Repo](https://github.com/d-0-t/ugly-site)
 <img src="https://github.com/d-0-t/demos/blob/main/media/skeletons.jpg" alt="Snek 2026 Video Game Title Screen" width="180">
 
+### 🖼️ Fix image blending in Dark Mode (plugin) | [Repo](https://github.com/d-0-t/fix-darkmode-image-blending)
+Tired of websites having invisibly dark product images while browsing in Dark Mode? This tiny browser extension neutralizes Tailwind's `.mix-blend-multiply` per site.
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/d-0-t/fix-darkmode-image-blending/raw/main/screenshots/before.jpg" alt="Before: product photos blend into the dark card backgrounds" width="100%">
+      <br>
+      <sub><b>Before</b> — images blend into the dark cards</sub>
+    </td>
+    <td align="center" width="180">
+      <img src="https://github.com/d-0-t/fix-darkmode-image-blending/raw/main/screenshots/after.jpg" alt="After: product photos are visible on white backgrounds" width="100%">
+      <br>
+      <sub><b>After</b> — product photos are visible</sub>
+    </td>
+  </tr>
+</table>
+
+
 ## Other projects
 
 ### Old/Unfinished
